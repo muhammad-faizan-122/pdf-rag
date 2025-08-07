@@ -1,0 +1,6 @@
+streamlit==1.48.0
+langchain==0.3.27
+langchain-ollama==0.3.6
+langchain-community==0.3.27
+pdfminer.six==20250506
+chromadb==1.0.15
