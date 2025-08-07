@@ -69,5 +69,3 @@ The app works well as a prototype but can be improved in the following ways:
 ---
 
 Feel free to fork, improve, or adapt this project for your own use cases!
-
-```
